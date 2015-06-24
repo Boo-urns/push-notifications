@@ -1,0 +1,6 @@
+{
+  "name": "polymer-project",
+  "dependencies": {
+    "paper-toggle-button": "PolymerElements/paper-toggle-button#^1.0.0"
+  }
+}
